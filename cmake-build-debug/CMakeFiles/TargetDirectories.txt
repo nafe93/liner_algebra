@@ -1,0 +1,3 @@
+/home/developer/STL/lesson_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/developer/STL/lesson_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/STL/lesson_10/cmake-build-debug/CMakeFiles/lesson_10.dir
